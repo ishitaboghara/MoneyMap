@@ -45,7 +45,7 @@ public class AnalyticsFragment extends Fragment {
         database = MoneyMapDatabase.getInstance(getContext());
 
         pieChart = view.findViewById(R.id.pie_chart);
-        layoutCategoryBreakdown = view.findViewById(R.id.layout_ category_breakdown);
+        layoutCategoryBreakdown = view.findViewById(R.id.layout_category_breakdown);
         tvNoData = view.findViewById(R.id.tv_no_data);
 
         loadAnalytics();
