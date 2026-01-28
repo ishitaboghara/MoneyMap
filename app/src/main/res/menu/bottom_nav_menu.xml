@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_dashboard"
+        android:icon="@android:drawable/ic_dialog_info"
+        android:title="@string/nav_dashboard" />
+
+    <item
+        android:id="@+id/nav_expenses"
+        android:icon="@android:drawable/ic_menu_today"
+        android:title="@string/nav_expenses" />
+
+    <item
+        android:id="@+id/nav_borrow_lend"
+        android:icon="@android:drawable/ic_menu_sort_by_size"
+        android:title="@string/nav_borrow_lend" />
+
+    <item
+        android:id="@+id/nav_groups"
+        android:icon="@android:drawable/ic_menu_my_calendar"
+        android:title="@string/nav_groups" />
+
+    <item
+        android:id="@+id/nav_analytics"
+        android:icon="@android:drawable/ic_menu_view"
+        android:title="@string/nav_analytics" />
+
+</menu>

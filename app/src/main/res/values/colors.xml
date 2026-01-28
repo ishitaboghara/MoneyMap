@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- PRIMARY BRAND COLORS (Deep Purple - Stability, Confidence, Trust) -->
+    <color name="primary">#5E35B1</color>           <!-- Rich deep purple - main brand -->
+    <color name="primary_dark">#4527A0</color>      <!-- Darker purple for depth -->
+    <color name="primary_light">#7E57C2</color>     <!-- Lighter purple for accents -->
+    <color name="primary_variant">#673AB7</color>   <!-- Alternative purple shade -->
+
+    <!-- SECONDARY COLORS (Blue - Trust, Clarity, Reliability) -->
+    <color name="secondary">#1E88E5</color>         <!-- Professional blue for analytics -->
+    <color name="secondary_dark">#1565C0</color>    <!-- Deep blue for emphasis -->
+    <color name="secondary_light">#42A5F5</color>   <!-- Light blue for hover states -->
+
+    <!-- SUCCESS / POSITIVE (Green - Income, Growth, Balance) -->
+    <color name="success">#43A047</color>           <!-- Rich green (not too bright) -->
+    <color name="success_light">#66BB6A</color>     <!-- Light green for backgrounds -->
+    <color name="success_dark">#2E7D32</color>      <!-- Dark green for text -->
+
+    <!-- EXPENSE / ACTION (Warm Orange - Spending, CTA, Activity) -->
+    <color name="accent_orange">#FB8C00</color>     <!-- Warm orange (softer than red) -->
+    <color name="accent_orange_light">#FFB74D</color> <!-- Light orange for cards -->
+    <color name="accent_orange_dark">#EF6C00</color>  <!-- Deep orange for emphasis -->
+
+    <!-- ACCENT / HIGHLIGHT (Teal - Secondary Actions, Info) -->
+    <color name="accent_teal">#00897B</color>       <!-- Calming teal for balance -->
+    <color name="accent_teal_light">#4DB6AC</color> <!-- Light teal for highlights -->
+
+    <!-- WARNING / DEBT (Red - Used Minimally, Only for Critical) -->
+    <color name="error">#D32F2F</color>             <!-- Muted red (not aggressive) -->
+    <color name="error_light">#EF5350</color>       <!-- Lighter red for warnings -->
+    <color name="warning">#F57C00</color>           <!-- Orange-red for caution -->
+
+    <!-- LIGHT MODE BACKGROUNDS -->
+    <color name="background_light">#FAFAFA</color>  <!-- Soft white (less harsh) -->
+    <color name="surface_light">#FFFFFF</color>     <!-- Pure white for cards -->
+    <color name="surface_light_elevated">#F5F5F5</color> <!-- Slightly elevated surface -->
+
+    <!-- DARK MODE BACKGROUNDS -->
+    <color name="background_dark">#121212</color>   <!-- True black for OLED -->
+    <color name="surface_dark">#1E1E1E</color>      <!-- Elevated dark surface -->
+    <color name="surface_dark_elevated">#2C2C2C</color> <!-- Higher elevation -->
+
+    <!-- TEXT COLORS (Light Mode) -->
+    <color name="text_primary_light">#212121</color>    <!-- Almost black -->
+    <color name="text_secondary_light">#757575</color>  <!-- Medium gray -->
+    <color name="text_tertiary_light">#9E9E9E</color>   <!-- Light gray -->
+
+    <!-- TEXT COLORS (Dark Mode) -->
+    <color name="text_primary_dark">#FFFFFF</color>     <!-- Pure white -->
+    <color name="text_secondary_dark">#B3B3B3</color>   <!-- Medium gray -->
+    <color name="text_tertiary_dark">#808080</color>    <!-- Darker gray -->
+
+    <!-- CATEGORY COLORS (Refined for Finance Context) -->
+    <color name="category_food">#EF5350</color>         <!-- Warm red -->
+    <color name="category_travel">#42A5F5</color>       <!-- Sky blue -->
+    <color name="category_shopping">#EC407A</color>     <!-- Pink -->
+    <color name="category_entertainment">#AB47BC</color> <!-- Purple -->
+    <color name="category_bills">#FFA726</color>        <!-- Amber -->
+    <color name="category_health">#66BB6A</color>       <!-- Green -->
+    <color name="category_education">#26C6DA</color>    <!-- Cyan -->
+    <color name="category_other">#78909C</color>        <!-- Blue gray -->
+
+    <!-- DIVIDERS & BORDERS -->
+    <color name="divider_light">#E0E0E0</color>     <!-- Light gray divider -->
+    <color name="divider_dark">#424242</color>      <!-- Dark gray divider -->
+    <color name="border_light">#BDBDBD</color>      <!-- Light border -->
+    <color name="border_dark">#616161</color>       <!-- Dark border -->
+
+    <!-- OVERLAY & SHADOWS -->
+    <color name="overlay_light">#1A000000</color>   <!-- 10% black -->
+    <color name="overlay_dark">#4D000000</color>    <!-- 30% black -->
+    <color name="shadow">#33000000</color>          <!-- 20% black for elevation -->
+
+    <!-- UTILITY COLORS -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- INFO / NEUTRAL -->
+    <color name="info">#1976D2</color>              <!-- Information blue -->
+    <color name="neutral">#9E9E9E</color>           <!-- Neutral gray -->
+</resources>
