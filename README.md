@@ -32,26 +32,25 @@ The app focuses on simplicity with a dark-mode friendly UI and supports partial 
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](screenshots/screenshots01_login_screen.jfif)
+<img src="screenshots/screenshots01_login_screen.jfif" width="300"/>
 
 ### Expenses List
-![Expenses](screenshots/screenshots02_expenses_list.jfif)
+<img src="screenshots/screenshots02_expenses_list.jfif" width="300"/>
 
 ### Borrow / Lend Tracking
-![Borrow Lend](screenshots/screenshots03_borrow_lend.jfif)
+<img src="screenshots/screenshots03_borrow_lend.jfif" width="300"/>
 
 ### Add Expense
-![Add Expense](screenshots/screenshots04_add_expense.jfif)
+<img src="screenshots/screenshots04_add_expense.jfif" width="300"/>
 
 ### Group Expenses & Bill Split
-![Group](screenshots/screenshots05_group_expenses.jfif)
+<img src="screenshots/screenshots05_group_expenses.jfif" width="300"/>
 
 ### Expense Analytics
-![Analytics](screenshots/screenshots06_expense_analytics.jfif)
+<img src="screenshots/screenshots06_expense_analytics.jfif" width="300"/>
 
 ### Dashboard Overview
-![Dashboard](screenshots/screenshots07_dashboard.jfif)
-
+<img src="screenshots/screenshots07_dashboard.jfif" width="300"/>
 ---
 
 ## 📦 APK Download
