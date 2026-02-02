@@ -33,39 +33,24 @@ The app focuses on simplicity with a dark-mode friendly UI and supports partial 
 
 ### Register & Login
 
-<p float="left">
-  <img src="screenshots/screenshots00_register_screen.jfif" width="220" />
-  <img src="screenshots/screenshots01_login_screen.jfif" width="220" />
+<p align="center">
+  <img src="screenshots/screenshots00_register_screen.jfif" width="160" />
+  <img src="screenshots/screenshots01_login_screen.jfif" width="160" />
+  <img src="screenshots/screenshots02_expenses_list.jfif" width="160" />
+  <img src="screenshots/screenshots03_borrow_lend.jfif" width="160" />
 </p>
 
 ---
 
-### Expenses & Borrow / Lend
+### Add Expense, Group Split, Analytics & Dashboard
 
-<p float="left">
-  <img src="screenshots/screenshots02_expenses_list.jfif" width="220" />
-  <img src="screenshots/screenshots03_borrow_lend.jfif" width="220" />
-</p>
-
----
-
-### Add Expense & Group Split
-
-<p float="left">
-  <img src="screenshots/screenshots04_add_expense.jfif" width="220" />
-  <img src="screenshots/screenshots05_group_expenses.jfif" width="220" />
-</p>
-
----
-
-### Analytics & Dashboard
-
-<p float="left">
-  <img src="screenshots/screenshots06_expense_analytics.jfif" width="220" />
-  <img src="screenshots/screenshots07_dashboard.jfif" width="220" />
+<p align="center">
+  <img src="screenshots/screenshots04_add_expense.jfif" width="160" />
+  <img src="screenshots/screenshots05_group_expenses.jfif" width="160" />
+  <img src="screenshots/screenshots06_expense_analytics.jfif" width="160" />
+  <img src="screenshots/screenshots07_dashboard.jfif" width="160" />
 </p>
 ---
-
 
 ## 📦 APK Download
 
