@@ -32,25 +32,25 @@ The app focuses on simplicity with a dark-mode friendly UI and supports partial 
 ## 📸 Screenshots
 
 ### Login Screen
-![Login](screenshots/01_login_screen.jfif)
+![Login](screenshots/screenshots01_login_screen.jfif)
 
 ### Expenses List
-![Expenses](screenshots/02_expenses_list.jfif)
+![Expenses](screenshots/acreeenshots02_expenses_list.jfif)
 
 ### Borrow / Lend Tracking
-![Borrow Lend](screenshots/03_borrow_lend.jfif)
+![Borrow Lend](screenshots/screenshots03_borrow_lend.jfif)
 
 ### Add Expense
-![Add Expense](screenshots/04_add_expense.jfif)
+![Add Expense](screenshots/screenshots04_add_expense.jfif)
 
 ### Group Expenses & Bill Split
-![Group](screenshots/05_group_expenses.jfif)
+![Group](screenshots/screenshots05_group_expenses.jfif)
 
 ### Expense Analytics
-![Analytics](screenshots/06_expense_analytics.jfif)
+![Analytics](screenshots/screenshots06_expense_analytics.jfif)
 
 ### Dashboard Overview
-![Dashboard](screenshots/07_dashboard.jfif)
+![Dashboard](screenshots/screenshots07_dashboard.jfif)
 
 ---
 
