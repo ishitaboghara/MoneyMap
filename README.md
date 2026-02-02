@@ -35,7 +35,7 @@ The app focuses on simplicity with a dark-mode friendly UI and supports partial 
 ![Login](screenshots/screenshots01_login_screen.jfif)
 
 ### Expenses List
-![Expenses](screenshots/acreeenshots02_expenses_list.jfif)
+![Expenses](screenshots/screeenshots02_expenses_list.jfif)
 
 ### Borrow / Lend Tracking
 ![Borrow Lend](screenshots/screenshots03_borrow_lend.jfif)
