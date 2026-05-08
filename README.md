@@ -1,35 +1,35 @@
-# 💰 MoneyMap – Expense Tracker & Bill Splitter App
+# MoneyMap – Expense Tracker & Bill Splitter App
 
-MoneyMap is a Java-based Android application designed to help users track daily expenses, split group bills, and manage borrowed/lent money easily.
+MoneyMap is a Java-based Android application developed to help users manage daily expenses, split group bills, and track borrowed or lent money.
 
-The app focuses on simplicity with a dark-mode friendly UI and supports partial payments, analytics, and group expense management.
-
----
-
-## 🚀 Features
-
-- User Login & Registration
-- Track daily expenses by category
-- Group bill splitting
-- Borrow / Lend money tracking
-- Partial payment settlement
-- Expense analytics with charts
-- Dashboard with balance overview
-- Dark mode UI
+The application includes expense analytics, partial payment handling, category-wise tracking, and a clean mobile-friendly interface.
 
 ---
 
-## 🛠 Tech Stack
+## Features
 
-- Java (Android)
-- Android Studio
-- Firebase (Authentication / Database)
-- Material UI
-- MPAndroidChart (for analytics)
+* User Login & Registration
+* Daily Expense Tracking
+* Group Bill Splitting
+* Borrow / Lend Management
+* Partial Payment Settlement
+* Expense Analytics
+* Dashboard Overview
+* Category-wise Expense Tracking
 
 ---
 
-## 📸 Screenshots
+## Tech Stack
+
+* Java (Android)
+* Android Studio
+* Firebase Authentication
+* Firebase Realtime Database
+* MPAndroidChart
+
+---
+
+## Screenshots
 
 ### Register, Login, Dashboard & Expenses
 
@@ -42,7 +42,7 @@ The app focuses on simplicity with a dark-mode friendly UI and supports partial 
 
 ---
 
-### Borrow/Lend, Add Expense, Group Split & Analytics
+### Borrow/Lend, Group Split & Analytics
 
 <p align="center">
   <img src="screenshots/screenshots03_borrow_lend.jfif" width="160" />
@@ -50,27 +50,16 @@ The app focuses on simplicity with a dark-mode friendly UI and supports partial 
   <img src="screenshots/screenshots05_group_expenses.jfif" width="160" />
   <img src="screenshots/screenshots06_expense_analytics.jfif" width="160" />
 </p>
----
-
-## 📦 APK Download
-
-Download the app here:
-
-👉 https://github.com/ishitaboghara/MoneyMap/blob/main/apk/MoneyMap.apk
 
 ---
 
-## 🌙 UI Note
+## APK Download
 
-The app works best in **Dark Mode UI**.  
-I also have a few enhancements planned, including UI improvements and advanced analytics.
-
----
-
-## 👩‍💻 Developed By
-
-Ishita Boghara (Group Project)
+[Download APK](https://github.com/ishitaboghara/MoneyMap/blob/main/apk/MoneyMap.apk)
 
 ---
 
-⭐ If you like this project, feel free to star the repository!
+## Developed By
+
+Ishita Boghara
+(Group Project)
